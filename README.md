@@ -4,11 +4,29 @@ The Indian digital payments story has truly captured the world’s imagination. 
 
 How to install:
 
-Step 1:
+Step 1(Getting the Repo): 
   Clone this git repository to your PC.
  
-Step 2:
+Step 2(Preparing the program to load data):
   Use requirements.txt to install all the modules needed for the program.
   
-Step 3:
+Step 3(Building the Database with sql):
+  Run pulse_sql.ipynb on your pc with jupyter notebook.
+  
+  Note!:
+    The Database should be created before running pulse_sql.ipynb on your PC 
+ and were only going to create tables and insert values.
+  
+Step4 (Final touch):
+    Run Main.py on your streamlit environment by the below command.
+  # streamlit run main.py 
+  
+  Note!:
+    You should switch to the file directory having main.py
+    eg:
+      cd path/
+      goto step4
+      
+ # Thank you have a nice day
+   
   
