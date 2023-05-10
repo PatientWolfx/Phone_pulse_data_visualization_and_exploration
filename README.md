@@ -30,6 +30,6 @@ Step4 (Final touch):
       cd path/
       goto step4
       
- # Thank you have a nice day
+ # Thank you have a nice day!
    
   
