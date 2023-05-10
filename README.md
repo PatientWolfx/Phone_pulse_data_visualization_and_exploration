@@ -34,6 +34,9 @@ the dataframe to update the dashboard dynamically.
 the solution thoroughly and deploy the dashboard publicly, making it
 accessible to users
 
+Link for the dataset:
+  https://github.com/PhonePe/pulse#readme
+
 # How to install:
 
 Step 1(Getting the Repo): 
