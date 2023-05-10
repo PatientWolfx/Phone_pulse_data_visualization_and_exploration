@@ -15,7 +15,7 @@ Step 3(Building the Database with sql):
   
   Note!:
     The Database should be created before running pulse_sql.ipynb on your PC 
- and were only going to create tables and insert values.
+ and were only going to create tables and insert values to it.
   
 Step4 (Final touch):
     Run Main.py on your streamlit environment by the below command.
